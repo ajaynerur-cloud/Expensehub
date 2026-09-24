@@ -46,18 +46,6 @@
     {
       "selected": true,
       "date": "2026-09-24",
-      "party": "test",
-      "amount": 100000,
-      "mode": "Bank Transfer",
-      "notes": "xxx",
-      "type": "personal",
-      "folderId": "",
-      "id": "aeeac333-4463-4e18-9165-cc1b27e9bf89",
-      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
-    },
-    {
-      "selected": true,
-      "date": "2026-09-24",
       "party": "test1",
       "amount": 1000000,
       "mode": "Bank Transfer",
@@ -68,5 +56,5 @@
       "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
     }
   ],
-  "updatedAt": "2026-09-24T14:51:08.394Z"
+  "updatedAt": "2026-09-24T14:54:06.986Z"
 }
