@@ -16,17 +16,6 @@
   ],
   "records": [
     {
-      "id": "b900ca98-90f8-4efc-8d2a-a4a2137210c3",
-      "type": "vendor",
-      "folderId": "6524e200-1a01-4ab7-a1c3-e74b1a4e9f8e",
-      "party": "Ajaykumar",
-      "amount": 900000,
-      "date": "2026-09-23",
-      "mode": "Bank Transfer",
-      "category": "Imported",
-      "notes": "From Nani for Kadidalu Land( loan to be repaid )"
-    },
-    {
       "id": "53f9f2ba-acfc-4c6a-8fbb-9e7742b99226",
       "type": "vendor",
       "folderId": "e66ce65a-5540-499a-970e-7678b4dd8c07",
@@ -137,5 +126,5 @@
       "notes": "upvc"
     }
   ],
-  "updatedAt": "2026-09-24T13:35:34.020Z"
+  "updatedAt": "2026-09-24T13:37:47.153Z"
 }
