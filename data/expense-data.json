@@ -23,8 +23,13 @@
       "id": "a97cbb24-f365-44df-9bb9-99e52e1f2756",
       "name": "Kadidalu-Parabhakar",
       "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "id": "c14b98a0-8767-4387-999c-5db439b36cda",
+      "name": "Personal",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
     }
   ],
   "records": [],
-  "updatedAt": "2026-09-24T14:44:06.214Z"
+  "updatedAt": "2026-09-24T14:44:38.858Z"
 }
