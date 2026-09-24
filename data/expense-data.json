@@ -12,7 +12,15 @@
       "createdAt": "2026-09-24T14:59:57.598Z"
     }
   ],
-  "invites": [],
+  "invites": [
+    {
+      "id": "c246fd24-7bbb-4948-a810-cf0445fd48c3",
+      "token": "607b38dcb8564ab9a9cd0991d5eb688887c91a697f17c5cb",
+      "householdId": "5ed0c872-5d12-4a31-b9a9-53d8468e51ae",
+      "status": "active",
+      "expiresAt": "2026-09-25T15:06:17.555Z"
+    }
+  ],
   "folders": [
     {
       "id": "7de7a826-65dc-4016-8dd8-ad12c747e2a9",
@@ -175,5 +183,5 @@
       "householdId": "5ed0c872-5d12-4a31-b9a9-53d8468e51ae"
     }
   ],
-  "updatedAt": "2026-09-24T15:05:42.026Z"
+  "updatedAt": "2026-09-24T15:06:17.920Z"
 }
