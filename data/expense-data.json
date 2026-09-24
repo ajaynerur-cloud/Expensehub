@@ -10,6 +10,16 @@
       "role": "owner",
       "active": true,
       "createdAt": "2026-09-24T14:42:42.615Z"
+    },
+    {
+      "id": "58d2fa4a-c6a4-4488-8aae-4aa36cc560d0",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7",
+      "name": "Swetha",
+      "email": "swethamohan87@gmail.com",
+      "passwordHash": "$2a$12$6jlZgZ3.RVhDeW3ljTnnyOrrKKMymaoGGak9MTnMzcxdQB06ti.tu",
+      "role": "member",
+      "active": true,
+      "createdAt": "2026-09-24T14:50:20.612Z"
     }
   ],
   "invites": [
@@ -25,9 +35,10 @@
       "id": "3ebf629a-4fb5-4bf4-8d22-4f0ebe55a189",
       "token": "e3db9328fa84ad48767170531d2c4ca06281fdd9f053e964",
       "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7",
-      "status": "active",
+      "status": "used",
       "createdAt": "2026-09-24T14:49:23.179Z",
-      "expiresAt": "2026-09-25T14:49:23.179Z"
+      "expiresAt": "2026-09-25T14:49:23.179Z",
+      "usedBy": "58d2fa4a-c6a4-4488-8aae-4aa36cc560d0"
     }
   ],
   "folders": [],
@@ -57,5 +68,5 @@
       "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
     }
   ],
-  "updatedAt": "2026-09-24T14:49:23.547Z"
+  "updatedAt": "2026-09-24T14:50:20.733Z"
 }
