@@ -14,6 +14,128 @@
       "name": "Payments to Me"
     }
   ],
-  "records": [],
-  "updatedAt": "2026-09-24T13:34:34.756Z"
+  "records": [
+    {
+      "id": "b900ca98-90f8-4efc-8d2a-a4a2137210c3",
+      "type": "vendor",
+      "folderId": "6524e200-1a01-4ab7-a1c3-e74b1a4e9f8e",
+      "party": "Ajaykumar",
+      "amount": 900000,
+      "date": "2026-09-23",
+      "mode": "Bank Transfer",
+      "category": "Imported",
+      "notes": "From Nani for Kadidalu Land( loan to be repaid )"
+    },
+    {
+      "id": "53f9f2ba-acfc-4c6a-8fbb-9e7742b99226",
+      "type": "vendor",
+      "folderId": "e66ce65a-5540-499a-970e-7678b4dd8c07",
+      "party": "Prabhakar Kadidalu",
+      "amount": 100000,
+      "date": "2026-09-15",
+      "mode": "Bank Transfer",
+      "category": "Imported",
+      "notes": "payment requested"
+    },
+    {
+      "id": "626aacb0-228b-451d-996a-5e2bd9c1bade",
+      "type": "vendor",
+      "folderId": "e66ce65a-5540-499a-970e-7678b4dd8c07",
+      "party": "Prabhakar Kadidalu",
+      "amount": 100000,
+      "date": "2026-09-05",
+      "mode": "Bank Transfer",
+      "category": "Imported",
+      "notes": "payment requested"
+    },
+    {
+      "id": "768074fd-42dd-4a18-86cb-abba97f21f15",
+      "type": "vendor",
+      "folderId": "76cb9805-93c5-4e83-b979-95471396333e",
+      "party": "Jimson",
+      "amount": 300000,
+      "date": "2026-08-12",
+      "mode": "Cash",
+      "category": "Imported",
+      "notes": "manson & others"
+    },
+    {
+      "id": "28bef96b-3945-4f2f-8a1d-b262bda9f29b",
+      "type": "vendor",
+      "folderId": "76cb9805-93c5-4e83-b979-95471396333e",
+      "party": "Jimson",
+      "amount": 35000,
+      "date": "2026-08-10",
+      "mode": "UPI",
+      "category": "Imported",
+      "notes": "to Lopez"
+    },
+    {
+      "id": "88708e6d-08ca-471e-a61f-b5354ae520cc",
+      "type": "vendor",
+      "folderId": "e66ce65a-5540-499a-970e-7678b4dd8c07",
+      "party": "Prabhakar Kadidalu",
+      "amount": 50000,
+      "date": "2026-08-08",
+      "mode": "UPI",
+      "category": "Imported",
+      "notes": "Payment Requested"
+    },
+    {
+      "id": "da495053-279f-42e6-a1db-aea60b6daa29",
+      "type": "vendor",
+      "folderId": "76cb9805-93c5-4e83-b979-95471396333e",
+      "party": "Jimson",
+      "amount": 50000,
+      "date": "2026-08-01",
+      "mode": "Cash",
+      "category": "Imported",
+      "notes": "house constructions"
+    },
+    {
+      "id": "396be13a-dc53-4e97-a278-c79be36b13b3",
+      "type": "vendor",
+      "folderId": "76cb9805-93c5-4e83-b979-95471396333e",
+      "party": "Jimson",
+      "amount": 350000,
+      "date": "2026-07-15",
+      "mode": "Bank Transfer",
+      "category": "Imported",
+      "notes": "paint & putty"
+    },
+    {
+      "id": "1ac15b2d-b64a-49d6-bb60-8907cbf6a802",
+      "type": "vendor",
+      "folderId": "76cb9805-93c5-4e83-b979-95471396333e",
+      "party": "Jimson",
+      "amount": 150000,
+      "date": "2026-06-09",
+      "mode": "Bank Transfer",
+      "category": "Imported",
+      "notes": "Constructions Payment"
+    },
+    {
+      "id": "c7531114-bd14-47b7-b774-2718257e59b6",
+      "type": "vendor",
+      "folderId": "e66ce65a-5540-499a-970e-7678b4dd8c07",
+      "party": "Prabhakar Kadidalu",
+      "amount": 1500000,
+      "date": "2026-06-03",
+      "mode": "Cheque",
+      "category": "Imported",
+      "notes": "Land in Kadidalu"
+    },
+    {
+      "id": "036c5d3d-4f7d-4a0a-afa3-a11b337c572a",
+      "type": "vendor",
+      "folderId": "76cb9805-93c5-4e83-b979-95471396333e",
+      "party": "Jimson",
+      "amount": 360849,
+      "date": "2025-04-07",
+      "mode": "Bank Transfer",
+      "category": "Imported",
+      "notes": "upvc"
+    }
+  ],
+  "updatedAt": "2026-09-24T13:35:34.020Z"
 }
