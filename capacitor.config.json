@@ -1,0 +1,10 @@
+{
+  "appId": "com.ajaycloud.expensehub",
+  "appName": "ExpenseHub V4",
+  "webDir": "public",
+  "server": {
+    "url": "https://expensehub-api.onrender.com",
+    "cleartext": false,
+    "androidScheme": "https"
+  }
+}
