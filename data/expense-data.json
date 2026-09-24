@@ -23,6 +23,31 @@
     }
   ],
   "folders": [],
-  "records": [],
-  "updatedAt": "2026-09-24T14:48:41.487Z"
+  "records": [
+    {
+      "selected": true,
+      "date": "2026-09-24",
+      "party": "test",
+      "amount": 100000,
+      "mode": "Bank Transfer",
+      "notes": "xxx",
+      "type": "personal",
+      "folderId": "",
+      "id": "aeeac333-4463-4e18-9165-cc1b27e9bf89",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-09-24",
+      "party": "test1",
+      "amount": 1000000,
+      "mode": "Bank Transfer",
+      "notes": "xxxx",
+      "type": "personal",
+      "folderId": "",
+      "id": "3b2f6ca2-d8a0-4792-97ef-12337874213c",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    }
+  ],
+  "updatedAt": "2026-09-24T14:49:15.649Z"
 }
