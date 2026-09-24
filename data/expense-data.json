@@ -1,47 +1,8 @@
 {
-  "version": 7,
-  "users": [
-    {
-      "id": "12fe2950-5f04-4aaa-8423-06165a41906f",
-      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7",
-      "name": "Ajaykumar Nerur Muthukrishnan",
-      "email": "ajaynerur@gmail.com",
-      "passwordHash": "$2a$12$t.8UL4UkFY4pPOXShV0yYOh39vNG0DnNcHpo4r.3B2I32ohw3zdgu",
-      "role": "owner",
-      "active": true,
-      "createdAt": "2026-09-24T14:42:42.615Z"
-    },
-    {
-      "id": "58d2fa4a-c6a4-4488-8aae-4aa36cc560d0",
-      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7",
-      "name": "Swetha",
-      "email": "swethamohan87@gmail.com",
-      "passwordHash": "$2a$12$6jlZgZ3.RVhDeW3ljTnnyOrrKKMymaoGGak9MTnMzcxdQB06ti.tu",
-      "role": "member",
-      "active": false,
-      "createdAt": "2026-09-24T14:50:20.612Z"
-    }
-  ],
-  "invites": [
-    {
-      "id": "0f7ca8cd-070d-458e-af2b-af6de8f618ab",
-      "token": "9d0eaac138326312f5dc37ac53caba10c93009b62460ab4e",
-      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7",
-      "status": "active",
-      "createdAt": "2026-09-24T14:48:41.120Z",
-      "expiresAt": "2026-09-25T14:48:41.120Z"
-    },
-    {
-      "id": "3ebf629a-4fb5-4bf4-8d22-4f0ebe55a189",
-      "token": "e3db9328fa84ad48767170531d2c4ca06281fdd9f053e964",
-      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7",
-      "status": "used",
-      "createdAt": "2026-09-24T14:49:23.179Z",
-      "expiresAt": "2026-09-25T14:49:23.179Z",
-      "usedBy": "58d2fa4a-c6a4-4488-8aae-4aa36cc560d0"
-    }
-  ],
+  "version": 8,
+  "users": [],
+  "invites": [],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-24T14:54:10.639Z"
+  "updatedAt": null
 }
