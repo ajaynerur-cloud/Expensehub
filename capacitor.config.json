@@ -1,6 +1,6 @@
 {
   "appId": "com.ajaycloud.expensehub",
-  "appName": "ExpenseHub V4",
+  "appName": "ExpenseHub V6",
   "webDir": "public",
   "server": {
     "url": "https://expensehub-api.onrender.com",
