@@ -12,8 +12,17 @@
       "createdAt": "2026-09-24T14:42:42.615Z"
     }
   ],
-  "invites": [],
+  "invites": [
+    {
+      "id": "0f7ca8cd-070d-458e-af2b-af6de8f618ab",
+      "token": "9d0eaac138326312f5dc37ac53caba10c93009b62460ab4e",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7",
+      "status": "active",
+      "createdAt": "2026-09-24T14:48:41.120Z",
+      "expiresAt": "2026-09-25T14:48:41.120Z"
+    }
+  ],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-24T14:48:23.284Z"
+  "updatedAt": "2026-09-24T14:48:41.487Z"
 }
