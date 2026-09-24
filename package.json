@@ -1,6 +1,6 @@
 {
-  "name": "expensehub-v6-1",
-  "version": "6.1.0",
+  "name": "expensehub-v7",
+  "version": "7.0.0",
   "private": true,
   "scripts": {
     "start": "node server.cjs",
@@ -8,16 +8,16 @@
     "android:sync": "cap sync android",
     "android:build": "npm run android:sync && cd android && ./gradlew assembleDebug"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "dependencies": {
+    "@capacitor/android": "8.5.0",
+    "@capacitor/core": "8.5.0",
     "bcryptjs": "2.4.3",
     "express": "4.21.2",
     "jsonwebtoken": "9.0.2",
-    "qrcode": "1.5.4",
-    "@capacitor/android": "8.5.0",
-    "@capacitor/core": "8.5.0"
-  },
-  "engines": {
-    "node": ">=22"
+    "qrcode": "1.5.4"
   },
   "devDependencies": {
     "@capacitor/cli": "8.5.0"
