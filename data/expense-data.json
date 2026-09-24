@@ -18,7 +18,7 @@
       "email": "swethamohan87@gmail.com",
       "passwordHash": "$2a$12$6jlZgZ3.RVhDeW3ljTnnyOrrKKMymaoGGak9MTnMzcxdQB06ti.tu",
       "role": "member",
-      "active": true,
+      "active": false,
       "createdAt": "2026-09-24T14:50:20.612Z"
     }
   ],
@@ -68,5 +68,5 @@
       "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
     }
   ],
-  "updatedAt": "2026-09-24T14:50:20.733Z"
+  "updatedAt": "2026-09-24T14:51:08.394Z"
 }
