@@ -162,7 +162,18 @@
       "folderId": "7de7a826-65dc-4016-8dd8-ad12c747e2a9",
       "id": "e56b3575-ca03-4146-9c85-2c3b759628a1",
       "householdId": "5ed0c872-5d12-4a31-b9a9-53d8468e51ae"
+    },
+    {
+      "id": "3c576bf2-bbeb-4860-9776-ffa293c5b9b5",
+      "type": "vendor",
+      "folderId": "7de7a826-65dc-4016-8dd8-ad12c747e2a9",
+      "party": "Jimson",
+      "amount": 100000,
+      "date": "2026-08-29",
+      "mode": "Cash",
+      "notes": "Paid to jimson",
+      "householdId": "5ed0c872-5d12-4a31-b9a9-53d8468e51ae"
     }
   ],
-  "updatedAt": "2026-09-24T15:02:34.436Z"
+  "updatedAt": "2026-09-24T15:05:00.889Z"
 }
