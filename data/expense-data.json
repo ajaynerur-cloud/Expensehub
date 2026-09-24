@@ -20,6 +20,14 @@
       "status": "active",
       "createdAt": "2026-09-24T14:48:41.120Z",
       "expiresAt": "2026-09-25T14:48:41.120Z"
+    },
+    {
+      "id": "3ebf629a-4fb5-4bf4-8d22-4f0ebe55a189",
+      "token": "e3db9328fa84ad48767170531d2c4ca06281fdd9f053e964",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7",
+      "status": "active",
+      "createdAt": "2026-09-24T14:49:23.179Z",
+      "expiresAt": "2026-09-25T14:49:23.179Z"
     }
   ],
   "folders": [],
@@ -49,5 +57,5 @@
       "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
     }
   ],
-  "updatedAt": "2026-09-24T14:49:15.649Z"
+  "updatedAt": "2026-09-24T14:49:23.547Z"
 }
