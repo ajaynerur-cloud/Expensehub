@@ -124,7 +124,18 @@
       "mode": "Bank Transfer",
       "category": "Imported",
       "notes": "upvc"
+    },
+    {
+      "id": "7f170f2e-f15a-4b3a-ab7b-c469d2d92fe0",
+      "type": "received",
+      "folderId": "6524e200-1a01-4ab7-a1c3-e74b1a4e9f8e",
+      "party": "Nani",
+      "amount": 900000,
+      "date": "2026-09-23",
+      "mode": "Bank Transfer",
+      "category": "Payment",
+      "notes": "From Nani for Kadidalu"
     }
   ],
-  "updatedAt": "2026-09-24T13:37:47.153Z"
+  "updatedAt": "2026-09-24T13:38:30.681Z"
 }
