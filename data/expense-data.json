@@ -13,7 +13,13 @@
     }
   ],
   "invites": [],
-  "folders": [],
+  "folders": [
+    {
+      "id": "7de7a826-65dc-4016-8dd8-ad12c747e2a9",
+      "name": "Jimsom-HomeConstruction ",
+      "householdId": "5ed0c872-5d12-4a31-b9a9-53d8468e51ae"
+    }
+  ],
   "records": [],
-  "updatedAt": "2026-09-24T14:59:57.786Z"
+  "updatedAt": "2026-09-24T15:00:53.885Z"
 }
