@@ -30,6 +30,139 @@
       "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
     }
   ],
-  "records": [],
-  "updatedAt": "2026-09-24T14:44:38.858Z"
+  "records": [
+    {
+      "selected": true,
+      "date": "2026-09-23",
+      "party": "Ajaykumar",
+      "amount": 900000,
+      "mode": "Bank Transfer",
+      "notes": "From Nani for Kadidalu Land( loan to be repaid )",
+      "type": "received",
+      "folderId": "c14b98a0-8767-4387-999c-5db439b36cda",
+      "id": "4734e71d-037c-4624-ab0a-35eb1cc113a2",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-09-15",
+      "party": "Prabhakar Kadidalu",
+      "amount": 100000,
+      "mode": "Bank Transfer",
+      "notes": "payment requested",
+      "type": "vendor",
+      "folderId": "a97cbb24-f365-44df-9bb9-99e52e1f2756",
+      "id": "7d978151-6284-40de-adae-5c751e3e4033",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-09-05",
+      "party": "Prabhakar Kadidalu",
+      "amount": 100000,
+      "mode": "Bank Transfer",
+      "notes": "payment requested",
+      "type": "vendor",
+      "folderId": "a97cbb24-f365-44df-9bb9-99e52e1f2756",
+      "id": "18da9c4c-32d6-4f35-8a95-fa6c07a22a58",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-08-12",
+      "party": "Jimson",
+      "amount": 300000,
+      "mode": "Cash",
+      "notes": "manson & others",
+      "type": "vendor",
+      "folderId": "770ce2aa-f56e-4609-ba20-8578fc21d4b4",
+      "id": "fea570a1-cf9f-4e1d-b25f-7942f814cac3",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-08-10",
+      "party": "Jimson",
+      "amount": 35000,
+      "mode": "UPI",
+      "notes": "to Lopez",
+      "type": "vendor",
+      "folderId": "770ce2aa-f56e-4609-ba20-8578fc21d4b4",
+      "id": "d3bdc4c9-6d06-4a2c-986c-1eb2ece942be",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-08-08",
+      "party": "Prabhakar Kadidalu",
+      "amount": 50000,
+      "mode": "UPI",
+      "notes": "Payment Requested",
+      "type": "vendor",
+      "folderId": "a97cbb24-f365-44df-9bb9-99e52e1f2756",
+      "id": "20b39923-50cb-4fc5-8e3c-7694eb02133a",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-08-01",
+      "party": "Jimson",
+      "amount": 50000,
+      "mode": "Cash",
+      "notes": "house constructions",
+      "type": "vendor",
+      "folderId": "770ce2aa-f56e-4609-ba20-8578fc21d4b4",
+      "id": "a1c750b2-76d3-4ef0-b2c2-650798791133",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-07-15",
+      "party": "Jimson",
+      "amount": 350000,
+      "mode": "Bank Transfer",
+      "notes": "paint & putty",
+      "type": "vendor",
+      "folderId": "770ce2aa-f56e-4609-ba20-8578fc21d4b4",
+      "id": "c5b95a1c-3031-41af-b0b4-dc1bd0ddd96e",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-06-09",
+      "party": "Jimson",
+      "amount": 150000,
+      "mode": "Bank Transfer",
+      "notes": "Constructions Payment",
+      "type": "vendor",
+      "folderId": "770ce2aa-f56e-4609-ba20-8578fc21d4b4",
+      "id": "753e24c1-b11a-43cf-aa86-cafa175e9355",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2026-06-03",
+      "party": "Prabhakar Kadidalu",
+      "amount": 1500000,
+      "mode": "Cheque",
+      "notes": "Land in Kadidalu",
+      "type": "vendor",
+      "folderId": "a97cbb24-f365-44df-9bb9-99e52e1f2756",
+      "id": "a2be9858-6d60-4ecb-b7a1-f52bf21fe578",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    },
+    {
+      "selected": true,
+      "date": "2025-04-07",
+      "party": "Jimson",
+      "amount": 360849,
+      "mode": "Bank Transfer",
+      "notes": "upvc",
+      "type": "vendor",
+      "folderId": "770ce2aa-f56e-4609-ba20-8578fc21d4b4",
+      "id": "6a09d592-0251-48bc-be0c-6b5838b20bb2",
+      "householdId": "c6b1cf59-d170-4e7f-b95c-dffc98809ab7"
+    }
+  ],
+  "updatedAt": "2026-09-24T14:45:44.785Z"
 }
