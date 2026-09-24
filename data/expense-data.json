@@ -38,7 +38,7 @@
       "amount": 900000,
       "mode": "Bank Transfer",
       "notes": "From Nani for Kadidalu Land( loan to be repaid )",
-      "type": "vendor",
+      "type": "received",
       "folderId": "7fdaf404-002c-44e4-9f24-04f3bd5eb4d7",
       "id": "b1506f63-9dfe-4dcf-8e59-286857a8e43b",
       "householdId": "5ed0c872-5d12-4a31-b9a9-53d8468e51ae"
@@ -175,5 +175,5 @@
       "householdId": "5ed0c872-5d12-4a31-b9a9-53d8468e51ae"
     }
   ],
-  "updatedAt": "2026-09-24T15:05:00.889Z"
+  "updatedAt": "2026-09-24T15:05:42.026Z"
 }
