@@ -1,6 +1,6 @@
 {
-  "name": "expensehub-v8-1",
-  "version": "8.1.0",
+  "name": "expensehub-v9",
+  "version": "9.0.0",
   "private": true,
   "scripts": {
     "start": "node server.cjs",
