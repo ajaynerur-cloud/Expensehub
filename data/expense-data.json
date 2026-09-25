@@ -7,6 +7,13 @@
       "email": "ajaynerur@gmail.com",
       "passwordHash": "$2a$12$3SSttuYtJ2cUraPj/IjM8O8d9W1ayFn/1Wiqns6ebLvgCEqsFK8V2",
       "active": true
+    },
+    {
+      "id": "238d546e-5d76-4e59-bf4d-cf53a04b5276",
+      "name": "Swetha",
+      "email": "swethamohan87@gmail.com",
+      "passwordHash": "$2a$12$ZYKswjQCnmrXDWBU2jiWVuwUWsPiGyY1ZqOgzB8TXuzjYXRszxeu6",
+      "active": true
     }
   ],
   "projects": [
@@ -38,5 +45,5 @@
   ],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T16:55:09.282Z"
+  "updatedAt": "2026-09-25T16:56:59.178Z"
 }
