@@ -40,6 +40,46 @@
     }
   ],
   "folders": [],
-  "records": [],
-  "updatedAt": "2026-09-25T04:40:36.855Z"
+  "records": [
+    {
+      "selected": true,
+      "date": "2026-09-25",
+      "party": "Payment",
+      "amount": 100,
+      "mode": "Upi",
+      "notes": "Food",
+      "type": "personal",
+      "folderId": "",
+      "id": "8d638037-010d-4605-9cf2-aae961dd0655",
+      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
+      "updatedBy": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5"
+    },
+    {
+      "selected": true,
+      "date": "2026-09-25",
+      "party": "Trip",
+      "amount": 1000,
+      "mode": "upi",
+      "notes": "Trip Exp",
+      "type": "personal",
+      "folderId": "",
+      "id": "bc4e794c-1b55-45d2-8033-b02b25e3a6a8",
+      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
+      "updatedBy": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5"
+    },
+    {
+      "selected": true,
+      "date": "2026-09-25",
+      "party": "Fuel",
+      "amount": 3000,
+      "mode": "upi",
+      "notes": "Fuel",
+      "type": "personal",
+      "folderId": "",
+      "id": "f11be578-62c5-4e7d-a618-acd358c597a3",
+      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
+      "updatedBy": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5"
+    }
+  ],
+  "updatedAt": "2026-09-25T04:41:28.341Z"
 }
