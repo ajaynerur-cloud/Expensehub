@@ -9,10 +9,25 @@
       "active": true
     }
   ],
-  "projects": [],
-  "projectMembers": [],
+  "projects": [
+    {
+      "id": "76865914-8dae-4934-aa68-3fcc17309080",
+      "name": "Personal Expenses",
+      "description": "Tack Payment & Expenses",
+      "createdBy": "9244c0ba-0d5b-4eb8-aa80-28b13b4c79f6"
+    }
+  ],
+  "projectMembers": [
+    {
+      "id": "f2145db3-6083-4001-ab0d-1f5a8be1957d",
+      "projectId": "76865914-8dae-4934-aa68-3fcc17309080",
+      "userId": "9244c0ba-0d5b-4eb8-aa80-28b13b4c79f6",
+      "role": "owner",
+      "active": true
+    }
+  ],
   "invites": [],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T08:26:14.197Z"
+  "updatedAt": "2026-09-25T10:22:24.171Z"
 }
