@@ -63,6 +63,150 @@
       "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
     }
   ],
-  "records": [],
-  "updatedAt": "2026-09-25T18:33:38.507Z"
+  "records": [
+    {
+      "selected": true,
+      "date": "2026-09-23",
+      "party": "Ajaykumar",
+      "amount": 900000,
+      "mode": "Bank Transfer",
+      "notes": "From Nani for Kadidalu Land( loan to be repaid )",
+      "type": "received",
+      "folderId": "e5df5761-cdf5-49fc-bc71-610c4d8b6e2d",
+      "id": "08ed92c5-6c7a-4912-991f-8a08e068f697",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-09-15",
+      "party": "Prabhakar Kadidalu",
+      "amount": 100000,
+      "mode": "Bank Transfer",
+      "notes": "payment requested",
+      "type": "vendor",
+      "folderId": "2a29fdfb-998e-4eba-afcf-f04799c4d041",
+      "id": "dc6b2f14-9e36-4ec7-ab3d-590a4ab6c8f4",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-09-05",
+      "party": "Prabhakar Kadidalu",
+      "amount": 100000,
+      "mode": "Bank Transfer",
+      "notes": "payment requested",
+      "type": "vendor",
+      "folderId": "2a29fdfb-998e-4eba-afcf-f04799c4d041",
+      "id": "eaf793da-efce-4f71-a0c9-1dec94199e88",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-08-12",
+      "party": "Jimson",
+      "amount": 300000,
+      "mode": "Cash",
+      "notes": "manson & others",
+      "type": "vendor",
+      "folderId": "f556b643-2ccb-43a8-b112-7fcda84a39fd",
+      "id": "e0a83c99-8d36-4c0d-9d63-75c6d7e33fa8",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-08-10",
+      "party": "Jimson",
+      "amount": 35000,
+      "mode": "UPI",
+      "notes": "to Lopez",
+      "type": "vendor",
+      "folderId": "f556b643-2ccb-43a8-b112-7fcda84a39fd",
+      "id": "16882f78-0fec-44f1-b7b4-de24a6840e06",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-08-08",
+      "party": "Prabhakar Kadidalu",
+      "amount": 50000,
+      "mode": "UPI",
+      "notes": "Payment Requested",
+      "type": "vendor",
+      "folderId": "2a29fdfb-998e-4eba-afcf-f04799c4d041",
+      "id": "13079b58-3711-4e4d-b99f-b4d71d0f24c9",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-08-01",
+      "party": "Jimson",
+      "amount": 50000,
+      "mode": "Cash",
+      "notes": "house constructions",
+      "type": "vendor",
+      "folderId": "f556b643-2ccb-43a8-b112-7fcda84a39fd",
+      "id": "c73bdb10-30c4-4305-a74f-7c2445baeba8",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-07-15",
+      "party": "Jimson",
+      "amount": 350000,
+      "mode": "Bank Transfer",
+      "notes": "paint & putty",
+      "type": "vendor",
+      "folderId": "f556b643-2ccb-43a8-b112-7fcda84a39fd",
+      "id": "cc396eb3-3ad2-4ccd-b569-e14d230cef70",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-06-09",
+      "party": "Jimson",
+      "amount": 150000,
+      "mode": "Bank Transfer",
+      "notes": "Constructions Payment",
+      "type": "vendor",
+      "folderId": "f556b643-2ccb-43a8-b112-7fcda84a39fd",
+      "id": "1412a47f-37cb-4812-bdcf-774ce162d18b",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-06-03",
+      "party": "Prabhakar Kadidalu",
+      "amount": 1500000,
+      "mode": "Cheque",
+      "notes": "Land in Kadidalu",
+      "type": "vendor",
+      "folderId": "2a29fdfb-998e-4eba-afcf-f04799c4d041",
+      "id": "1edb4ad1-5565-4cd1-b0c0-08306d6e71c6",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2025-04-07",
+      "party": "Jimson",
+      "amount": 360849,
+      "mode": "Bank Transfer",
+      "notes": "upvc",
+      "type": "vendor",
+      "folderId": "f556b643-2ccb-43a8-b112-7fcda84a39fd",
+      "id": "02cee05f-d663-4c71-9d57-1b5cf73df8d4",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    }
+  ],
+  "updatedAt": "2026-09-25T18:35:27.962Z"
 }
