@@ -51,7 +51,14 @@
       "usedBy": "46036fb4-5c1b-41c8-a079-66643de2bfc8"
     }
   ],
-  "folders": [],
+  "folders": [
+    {
+      "id": "af068085-7364-4944-8234-bbd6b5b1f17d",
+      "name": "pwe",
+      "createdBy": "10fc3804-06a7-4b08-9256-b6e14e1c46d1",
+      "projectId": "9a466c52-90f8-4883-93d0-00b2cd2c13ce"
+    }
+  ],
   "records": [],
-  "updatedAt": "2026-09-25T19:04:07.183Z"
+  "updatedAt": "2026-09-25T19:04:43.899Z"
 }
