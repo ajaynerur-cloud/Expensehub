@@ -18,98 +18,10 @@
       "createdAt": "2026-09-25T04:42:30.153Z"
     }
   ],
-  "projects": [
-    {
-      "id": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
-      "name": "Ajay-Personal",
-      "description": "Personal Project",
-      "createdBy": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5",
-      "createdAt": "2026-09-25T04:40:27.319Z"
-    }
-  ],
-  "projectMembers": [
-    {
-      "id": "a1aef098-671b-4775-a65e-39eff7ec0221",
-      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
-      "userId": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5",
-      "role": "owner",
-      "active": true,
-      "joinedAt": "2026-09-25T04:40:27.319Z"
-    },
-    {
-      "id": "f3579672-9d0c-4f0d-bbc5-5d5b226ca03a",
-      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
-      "userId": "6e857192-e46d-4f8e-b2ee-bff3969b8a5a",
-      "role": "member",
-      "active": true,
-      "joinedAt": "2026-09-25T04:42:51.715Z"
-    }
-  ],
-  "invites": [
-    {
-      "id": "25e7baaf-f4a8-4c97-860f-f4ccff147be8",
-      "token": "4d88955cc4fc649192e7299d82531f4e2ce54b5b09c9a1e8",
-      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
-      "status": "used",
-      "createdBy": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5",
-      "expiresAt": "2026-09-26T04:40:36.638Z",
-      "usedBy": "6e857192-e46d-4f8e-b2ee-bff3969b8a5a"
-    }
-  ],
+  "projects": [],
+  "projectMembers": [],
+  "invites": [],
   "folders": [],
-  "records": [
-    {
-      "selected": true,
-      "date": "2026-09-25",
-      "party": "Payment",
-      "amount": 100,
-      "mode": "Upi",
-      "notes": "Food",
-      "type": "personal",
-      "folderId": "",
-      "id": "8d638037-010d-4605-9cf2-aae961dd0655",
-      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
-      "updatedBy": "6e857192-e46d-4f8e-b2ee-bff3969b8a5a"
-    },
-    {
-      "selected": true,
-      "date": "2026-09-25",
-      "party": "Trip",
-      "amount": 1000,
-      "mode": "upi",
-      "notes": "Trip Exp",
-      "type": "personal",
-      "folderId": "",
-      "id": "bc4e794c-1b55-45d2-8033-b02b25e3a6a8",
-      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
-      "updatedBy": "6e857192-e46d-4f8e-b2ee-bff3969b8a5a"
-    },
-    {
-      "selected": true,
-      "date": "2026-09-25",
-      "party": "Fuel",
-      "amount": 3000,
-      "mode": "upi",
-      "notes": "Fuel",
-      "type": "personal",
-      "folderId": "",
-      "id": "f11be578-62c5-4e7d-a618-acd358c597a3",
-      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
-      "updatedBy": "6e857192-e46d-4f8e-b2ee-bff3969b8a5a"
-    },
-    {
-      "selected": true,
-      "date": "2026-09-25",
-      "party": "Party",
-      "amount": 315464.46,
-      "mode": "Cash",
-      "notes": "",
-      "type": "received",
-      "folderId": "",
-      "id": "fcdcf1f8-15ec-4d45-9875-428358c9af53",
-      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
-      "updatedBy": "6e857192-e46d-4f8e-b2ee-bff3969b8a5a"
-    }
-  ],
-  "updatedAt": "2026-09-25T04:44:14.555Z"
+  "records": [],
+  "updatedAt": "2026-09-25T04:46:15.572Z"
 }
