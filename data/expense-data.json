@@ -26,8 +26,17 @@
       "active": true
     }
   ],
-  "invites": [],
+  "invites": [
+    {
+      "id": "d1d96e04-512f-4454-919f-8b72ce1db295",
+      "token": "f451f86ec97b07ddef005542cf83d533641ee670855e3919",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4",
+      "status": "active",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "expiresAt": "2026-09-26T16:55:09.087Z"
+    }
+  ],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T16:55:00.591Z"
+  "updatedAt": "2026-09-25T16:55:09.282Z"
 }
