@@ -1,5 +1,8 @@
-name: Build ExpenseHub V12 Android APK
-on: {workflow_dispatch: {}, push: {branches: [main]}}
+name: Build ExpenseHub V13 Android APK
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,7 +14,9 @@ jobs:
         with: {distribution: temurin, java-version: 21}
       - run: npm ci --no-audit --no-fund
       - run: if [ ! -d android ]; then npx cap add android; fi
+      - name: Generate supplied ExpenseHub Android icon
+        run: npx capacitor-assets generate --android --assetPath assets --iconBackgroundColor '#087CF0' --iconBackgroundColorDark '#087CF0'
       - run: npx cap sync android
       - run: cd android && chmod +x gradlew && ./gradlew assembleDebug
       - uses: actions/upload-artifact@v4
-        with: {name: ExpenseHub-V12-debug-apk, path: android/app/build/outputs/apk/debug/app-debug.apk}
+        with: {name: ExpenseHub-V13-debug-apk, path: android/app/build/outputs/apk/debug/app-debug.apk}
