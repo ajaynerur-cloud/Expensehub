@@ -49,8 +49,14 @@
       "name": "HouseConstruction",
       "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
       "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "id": "2a29fdfb-998e-4eba-afcf-f04799c4d041",
+      "name": "LandPurchase-Kadidalu",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
     }
   ],
   "records": [],
-  "updatedAt": "2026-09-25T18:32:57.497Z"
+  "updatedAt": "2026-09-25T18:33:17.349Z"
 }
