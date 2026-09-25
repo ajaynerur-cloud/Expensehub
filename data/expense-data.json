@@ -9,10 +9,25 @@
       "active": true
     }
   ],
-  "projects": [],
-  "projectMembers": [],
+  "projects": [
+    {
+      "id": "65aafc98-3a2f-4259-b1ef-0c2040235800",
+      "name": "Personal",
+      "description": "Track Personal Expense ",
+      "createdBy": "703394aa-22c1-4a2c-b54f-acfe395ea0b4"
+    }
+  ],
+  "projectMembers": [
+    {
+      "id": "6adf08a4-8c65-47e4-a1ec-1a7020ca20e0",
+      "projectId": "65aafc98-3a2f-4259-b1ef-0c2040235800",
+      "userId": "703394aa-22c1-4a2c-b54f-acfe395ea0b4",
+      "role": "owner",
+      "active": true
+    }
+  ],
   "invites": [],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T12:45:26.099Z"
+  "updatedAt": "2026-09-25T12:46:06.297Z"
 }
