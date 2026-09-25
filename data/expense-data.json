@@ -31,6 +31,13 @@
       "userId": "703394aa-22c1-4a2c-b54f-acfe395ea0b4",
       "role": "owner",
       "active": true
+    },
+    {
+      "id": "460ddcfb-6138-440b-9161-fa1028c81a66",
+      "projectId": "65aafc98-3a2f-4259-b1ef-0c2040235800",
+      "userId": "4bb740fa-bb22-4dc0-a715-be900ee7f52c",
+      "role": "member",
+      "active": true
     }
   ],
   "invites": [
@@ -38,12 +45,12 @@
       "id": "94af441c-49b2-4970-bbcc-121ea6fe00e8",
       "token": "7389990e0a870663d39b3f870c3ea6991977db74fca89a0c",
       "projectId": "65aafc98-3a2f-4259-b1ef-0c2040235800",
-      "status": "active",
+      "status": "used",
       "createdBy": "703394aa-22c1-4a2c-b54f-acfe395ea0b4",
       "expiresAt": "2026-09-26T15:37:57.414Z"
     }
   ],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T15:39:11.770Z"
+  "updatedAt": "2026-09-25T15:40:35.268Z"
 }
