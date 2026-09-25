@@ -1,10 +1,18 @@
 {
   "version": 11,
-  "users": [],
+  "users": [
+    {
+      "id": "703394aa-22c1-4a2c-b54f-acfe395ea0b4",
+      "name": "Ajaykumar",
+      "email": "ajaynerur@gmail.com",
+      "passwordHash": "$2a$12$GwIGxQ.FXfNB4yX/bWn3k.NYoXR5QDhbqOhy0HAD7kqqE7Nr.GppS",
+      "active": true
+    }
+  ],
   "projects": [],
   "projectMembers": [],
   "invites": [],
   "folders": [],
   "records": [],
-  "updatedAt": null
+  "updatedAt": "2026-09-25T12:45:26.099Z"
 }
