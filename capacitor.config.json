@@ -1,1 +1,10 @@
-{"appId":"com.ajaycloud.expensehub","appName":"ExpenseHub V10.1","webDir":"public","server":{"url":"https://expensehub-dx10.onrender.com","cleartext":false,"androidScheme":"https"}}
+{
+  "appId": "com.ajaycloud.expensehub",
+  "appName": "ExpenseHub V11",
+  "webDir": "public",
+  "server": {
+    "url": "https://expensehub-dx10.onrender.com",
+    "cleartext": false,
+    "androidScheme": "https"
+  }
+}
