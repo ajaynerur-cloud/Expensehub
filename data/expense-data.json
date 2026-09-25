@@ -29,8 +29,17 @@
       "joinedAt": "2026-09-25T04:40:27.319Z"
     }
   ],
-  "invites": [],
+  "invites": [
+    {
+      "id": "25e7baaf-f4a8-4c97-860f-f4ccff147be8",
+      "token": "4d88955cc4fc649192e7299d82531f4e2ce54b5b09c9a1e8",
+      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
+      "status": "active",
+      "createdBy": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5",
+      "expiresAt": "2026-09-26T04:40:36.638Z"
+    }
+  ],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T04:40:27.496Z"
+  "updatedAt": "2026-09-25T04:40:36.855Z"
 }
