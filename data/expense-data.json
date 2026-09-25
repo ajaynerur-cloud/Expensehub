@@ -10,10 +10,27 @@
       "createdAt": "2026-09-25T04:39:49.555Z"
     }
   ],
-  "projects": [],
-  "projectMembers": [],
+  "projects": [
+    {
+      "id": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
+      "name": "Ajay-Personal",
+      "description": "Personal Project",
+      "createdBy": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5",
+      "createdAt": "2026-09-25T04:40:27.319Z"
+    }
+  ],
+  "projectMembers": [
+    {
+      "id": "a1aef098-671b-4775-a65e-39eff7ec0221",
+      "projectId": "dff9b2cd-482d-47d8-a9ae-31bf9fb3f6f8",
+      "userId": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5",
+      "role": "owner",
+      "active": true,
+      "joinedAt": "2026-09-25T04:40:27.319Z"
+    }
+  ],
   "invites": [],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T04:39:49.727Z"
+  "updatedAt": "2026-09-25T04:40:27.496Z"
 }
