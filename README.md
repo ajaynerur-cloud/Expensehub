@@ -1,16 +1,17 @@
-# ExpenseHub V12
+# ExpenseHub V13
 
-V12 preserves V11 rendering and features, and restores owner project controls.
+V13 fixes invite registration and preserves the V12 responsive and owner-control functionality.
 
-## Owner controls
-- Delete the entire project directly, without promoting another owner
-- Promote a project member to owner
-- Demote another owner while retaining at least one owner
-- Disable or enable a project member
-- Remove a member after owner password confirmation
-- Complete-project delete removes the project, all project memberships, invitations, folders and transactions
+## Invite authentication flow
+- An unauthenticated invitee sees the invited project and can create an account or sign in.
+- Account creation returns a JWT and signs the invitee in immediately.
+- The invite remains in the URL/session and the signed-in invitee is shown the choice to join the invited project or create a separate personal project.
+- Joining consumes the one-time invitation and immediately opens the joined project.
 
-## Preserved
-Responsive mobile/tablet/desktop UI, Android safe-area, bottom navigation, transaction cards, login/signup, multi-project switcher, QR sharing, single add, mass add, desktop CSV/XLS/XLSX upload, Personal/Vendor/Received registers, folders, analytics, current/all Excel export, leave project, exit account, GitHub JSON storage and APK workflow.
+## Branding
+The user-supplied ExpenseHub image is included as `public/assets/app-icon.png`, `assets/icon.png`, `assets/icon-only.png`, and `assets/icon-foreground.png`. The page favicon and header use it. The Android workflow runs `@capacitor/assets` before the APK build to generate Android launcher resources.
+
+## Preserved capabilities
+Responsive Android/mobile/tablet/desktop rendering, signup/login, multi-project personal/shared accounts, QR invites, project switching, single add, mass add, desktop CSV/XLS/XLSX import, separate Personal/Vendor/Received registers, folders, analytics, member promotion/disable, complete-project deletion, current/all Excel export, GitHub JSON storage and APK workflow.
 
 Render build: `npm ci --no-audit --no-fund`; start: `npm start`.
