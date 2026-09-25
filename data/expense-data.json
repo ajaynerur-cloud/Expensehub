@@ -31,13 +31,6 @@
       "userId": "ac91197a-60fd-4eee-ac0a-676793792625",
       "role": "owner",
       "active": true
-    },
-    {
-      "id": "fef981e2-358f-47dc-9df7-335c29df3a6f",
-      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4",
-      "userId": "238d546e-5d76-4e59-bf4d-cf53a04b5276",
-      "role": "member",
-      "active": true
     }
   ],
   "invites": [
@@ -52,5 +45,5 @@
   ],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T16:57:18.399Z"
+  "updatedAt": "2026-09-25T16:57:53.113Z"
 }
