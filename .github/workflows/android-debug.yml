@@ -1,4 +1,4 @@
-name: Build ExpenseHub V8 Android APK
+name: Build ExpenseHub V9 Android APK
 on:
   workflow_dispatch:
   push:
@@ -17,4 +17,4 @@ jobs:
       - run: npx cap sync android
       - run: cd android && chmod +x gradlew && ./gradlew assembleDebug
       - uses: actions/upload-artifact@v4
-        with: {name: ExpenseHub-V8-debug-apk, path: android/app/build/outputs/apk/debug/app-debug.apk}
+        with: {name: ExpenseHub-V9-debug-apk, path: android/app/build/outputs/apk/debug/app-debug.apk}
