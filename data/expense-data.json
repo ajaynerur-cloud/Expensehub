@@ -10,10 +10,26 @@
       "createdAt": "2026-09-25T05:06:27.834Z"
     }
   ],
-  "projects": [],
-  "projectMembers": [],
+  "projects": [
+    {
+      "id": "989fd37b-44a8-49db-b375-6093b9dad98a",
+      "name": "Personal",
+      "description": "Personal Expense Tracking",
+      "createdBy": "d450ca0d-a937-4a75-b17a-500b577f937e",
+      "createdAt": "2026-09-25T05:08:58.885Z"
+    }
+  ],
+  "projectMembers": [
+    {
+      "id": "49dd790d-3d3d-4e37-bd43-bf5895596008",
+      "projectId": "989fd37b-44a8-49db-b375-6093b9dad98a",
+      "userId": "d450ca0d-a937-4a75-b17a-500b577f937e",
+      "role": "owner",
+      "active": true
+    }
+  ],
   "invites": [],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T05:06:27.987Z"
+  "updatedAt": "2026-09-25T05:08:59.072Z"
 }
