@@ -1,1 +1,18 @@
-{"version":13,"users":[],"projects":[],"projectMembers":[],"invites":[],"folders":[],"records":[],"updatedAt":null}
+{
+  "version": 13,
+  "users": [
+    {
+      "id": "10fc3804-06a7-4b08-9256-b6e14e1c46d1",
+      "name": "Ajaykumar Nerur Muthukrishnan",
+      "email": "ajaynerur@gmail.com",
+      "passwordHash": "$2a$12$reJh/.6la55sYJA70dGxpe23BogylEqe3Wr1zp7.92kU63tfzgtUe",
+      "active": true
+    }
+  ],
+  "projects": [],
+  "projectMembers": [],
+  "invites": [],
+  "folders": [],
+  "records": [],
+  "updatedAt": "2026-09-25T19:00:54.649Z"
+}
