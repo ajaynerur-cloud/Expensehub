@@ -1,6 +1,6 @@
 {
-  "name": "expensehub-v9",
-  "version": "9.0.0",
+  "name": "expensehub-v10",
+  "version": "10.0.0",
   "private": true,
   "scripts": {
     "start": "node server.cjs",
@@ -17,7 +17,8 @@
     "bcryptjs": "2.4.3",
     "express": "4.21.2",
     "jsonwebtoken": "9.0.2",
-    "qrcode": "1.5.4"
+    "qrcode": "1.5.4",
+    "xlsx": "0.18.5"
   },
   "devDependencies": {
     "@capacitor/cli": "8.5.0"

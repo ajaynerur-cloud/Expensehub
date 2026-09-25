@@ -1,27 +1,10 @@
 {
-  "version": 9,
-  "users": [
-    {
-      "id": "dda3abc9-3db0-4885-8370-3f1d3d8ecbb5",
-      "name": "Ajaykumar Nerur Muthukrishnan",
-      "email": "ajaynerur@gmail.com",
-      "passwordHash": "$2a$12$u5ilR6efyF6yNkQ9rt3K7ONgjzFUXl.G80dEZQnfhJxBHtddUemaC",
-      "active": true,
-      "createdAt": "2026-09-25T04:39:49.555Z"
-    },
-    {
-      "id": "6e857192-e46d-4f8e-b2ee-bff3969b8a5a",
-      "name": "Shayeree De",
-      "email": "shayeree.dutta@gmail.com",
-      "passwordHash": "$2a$12$ZMQSJxHVond1oFZ6a.X5R.4QfQ33T97.ceHIETR6d9QKCDTxO.I.S",
-      "active": true,
-      "createdAt": "2026-09-25T04:42:30.153Z"
-    }
-  ],
+  "version": 10,
+  "users": [],
   "projects": [],
   "projectMembers": [],
   "invites": [],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T04:46:15.572Z"
+  "updatedAt": null
 }
