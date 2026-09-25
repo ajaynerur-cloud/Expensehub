@@ -7,6 +7,13 @@
       "email": "ajaynerur@gmail.com",
       "passwordHash": "$2a$12$GwIGxQ.FXfNB4yX/bWn3k.NYoXR5QDhbqOhy0HAD7kqqE7Nr.GppS",
       "active": true
+    },
+    {
+      "id": "4bb740fa-bb22-4dc0-a715-be900ee7f52c",
+      "name": "Shayeree Dutta",
+      "email": "shayeree.dutta@gmail.com",
+      "passwordHash": "$2a$12$/9PXb7XTTpgLKTAr57sf7ub7UCL.6MvR8KwP1d9LidpYrw0S7Tfi.",
+      "active": true
     }
   ],
   "projects": [
@@ -38,5 +45,5 @@
   ],
   "folders": [],
   "records": [],
-  "updatedAt": "2026-09-25T15:37:57.738Z"
+  "updatedAt": "2026-09-25T15:39:11.770Z"
 }
