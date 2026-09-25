@@ -206,7 +206,20 @@
       "id": "02cee05f-d663-4c71-9d57-1b5cf73df8d4",
       "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
       "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
+    },
+    {
+      "selected": true,
+      "date": "2026-08-29",
+      "party": "Jimson",
+      "amount": 100000,
+      "mode": "Cash",
+      "notes": "Payment for Material",
+      "type": "vendor",
+      "folderId": "f556b643-2ccb-43a8-b112-7fcda84a39fd",
+      "id": "e062a2ea-6d81-456d-857b-78975c6da95c",
+      "createdBy": "ac91197a-60fd-4eee-ac0a-676793792625",
+      "projectId": "2066df7e-ba9b-4372-8f4c-4e080dac3bb4"
     }
   ],
-  "updatedAt": "2026-09-25T18:35:27.962Z"
+  "updatedAt": "2026-09-25T18:37:08.191Z"
 }
